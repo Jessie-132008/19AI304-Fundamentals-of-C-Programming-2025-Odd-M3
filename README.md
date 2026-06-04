@@ -96,6 +96,7 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 9: 
   Stop
 # Program:
+~~~
 #include <stdio.h>
 
 int main() {
@@ -139,6 +140,7 @@ int main() {
 
     return 0;
 }
+~~~
 # Output:
 <img width="787" height="413" alt="image" src="https://github.com/user-attachments/assets/2dce098d-df05-44ea-b208-523b48ad272b" />
 
